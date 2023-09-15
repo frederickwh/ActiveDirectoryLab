@@ -4,15 +4,12 @@
 Description
 <br />
 
+<h2>Exposure:</h2>
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 11</b>
+- <b>Active Directory</b>
+- <b>PowerShell</b>
+- <b>Windows Server</b>
+- <b>Virtualization (Oracle VirualBox)</b>
 
 <h2>Program walk-through:</h2>
 
