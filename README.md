@@ -4,16 +4,12 @@
 In this personal project, I transformed my personal computer into a dynamic learning environment by creating an Active Directory (AD) lab using VirtualBox. This allowed me to delve deep into the world of Windows Server and network administration without the need for expensive hardware. By harnessing the power of virtualization, I configured and interconnected multiple virtual machines to simulate a real-world AD environment. This included setting up domain controllers, DNS servers, DHCP servers, and various client machines, replicating the complexities of a corporate network right on my desktop.
 <br />
 
-<h2>Experience</h2>
-
-
-
 <h2>Exposure:</h2>
 
-- <b>Active Directory</b>
-- <b>PowerShell</b>
-- <b>Windows Server</b>
-- <b>Virtualization (Oracle VirualBox)</b>
+- Active Directory
+- PowerShell
+- Windows Server
+- Virtualization (Oracle VirualBox)
 
 <h2>Program walk-through:</h2>
 
